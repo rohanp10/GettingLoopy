@@ -81,7 +81,7 @@ public class Main {
 
         // Extra Credit
 
-        /*
+
         for (int i = 0; i < 18; i++) {
             System.out.print("*");
         }
@@ -109,7 +109,6 @@ public class Main {
             System.out.print("*");
             System.out.println("");
         }
-         */
 
 
     }
